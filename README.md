@@ -1,16 +1,25 @@
-# authentication_app
+# Authentication App  🔒 🔓 
+An authentication app is a software application designed to provide an additional layer of security for user accounts by generating time-based, 
+one-time passwords (TOTPs) or verification codes. These codes are used alongside traditional passwords to verify the identity of users during the 
+login process, ensuring enhanced protection against unauthorized access. 
 
+I used Firebase Authentication for Login, Sign up and Forget Password using Firebase Authentication. 
+Following are the screens and pages 
+
+## Features
+1: 🔒 Sign UP Screen, 
+
+2: 🔓 Login Screen,
+
+3: 🔑Forget Password Screen".
+
+4: 🏠 Home Page
+
+5: 📕 Details Page
 A new Flutter project.
 
-## Getting Started
+## Demo of Authentication App
+https://github.com/osamakamal20/Authentication_App/assets/70693692/00e53209-0678-4757-bcb9-e8e8fd15ac69
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
